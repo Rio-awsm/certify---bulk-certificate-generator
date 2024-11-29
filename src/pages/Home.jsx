@@ -1,11 +1,20 @@
-import React from 'react'
+import React from "react";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import Hero from "../components/Hero";
 
 const Home = () => {
   return (
-    <div>
-      ascaqSFWQDFGWQE
-    </div>
-  )
-}
+    <main>
+      <Navbar />
 
-export default Home
+      <section>
+        <Hero />
+      </section>
+
+      <Footer />
+    </main>
+  );
+};
+
+export default Home;

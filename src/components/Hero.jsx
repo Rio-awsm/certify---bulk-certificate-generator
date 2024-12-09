@@ -64,7 +64,7 @@ export default function Hero() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 w-1/2 justify-center flex gap-2 items-center dark:bg-gray-300 bg-violet-200 text-black transition duration-300 hover:dark:bg-gray-400 hover:bg-violet-300"
-                href=""
+                href="https://github.com/Rio-awsm/certify---bulk-certificate-generator"
               >
                 <FaGithub size={20} />
                 <p>Source</p>

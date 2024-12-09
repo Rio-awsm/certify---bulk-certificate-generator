@@ -40,7 +40,7 @@ const Navbar = () => {
 
 
         <div className="flex items-center space-x-4">
-          <a href="" className="text-gray-100">
+          <a href="https://github.com/Rio-awsm/certify---bulk-certificate-generator" className="text-gray-100">
             <FaGithub className="w-6 h-6" />
           </a>
           <button

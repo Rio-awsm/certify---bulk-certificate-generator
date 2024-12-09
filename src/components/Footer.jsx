@@ -31,7 +31,7 @@ const Footer = () => {
             <ul className="flex flex-col gap-2 text-sm">
               <li>
                 <a
-                  href="#"
+                  href="https://github.com/Rio-awsm/certify---bulk-certificate-generator"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-gray-400"
